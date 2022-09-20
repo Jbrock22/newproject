@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">4fab4f5d018251107f442ea34d630b98</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Loaner Admins</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_loaner_loaner_request</name>
+        <order>700</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_loaner.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 15:07:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5be3e87101c691107f442ea34d630bfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Admins</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner" source="x_cdltd_loaner">96ba0f1d018251107f442ea34d630b66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner">96ba0f1d018251107f442ea34d630b66</sys_scope>
+        <sys_update_name>sys_app_module_5be3e87101c691107f442ea34d630bfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 15:07:02</sys_updated_on>
+        <timeline_page/>
+        <title>Loaner Admins</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner">96ba0f1d018251107f442ea34d630b66</application>
+        <file_path/>
+        <instance_id>8026d2cd478215141baf3d55d36d431f</instance_id>
+        <instance_name>adf-sep18adgf-dev-005</instance_name>
+        <name>sys_app_module_5be3e87101c691107f442ea34d630bfc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">4fab4f5d018251107f442ea34d630b98</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Loaner Admins</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_loaner_loaner_request</name><order>700</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_loaner.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-20 15:07:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5be3e87101c691107f442ea34d630bfc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Admins</sys_name><sys_overrides/><sys_package display_value="Loaner" source="x_cdltd_loaner">96ba0f1d018251107f442ea34d630b66</sys_package><sys_policy/><sys_scope display_value="Loaner">96ba0f1d018251107f442ea34d630b66</sys_scope><sys_update_name>sys_app_module_5be3e87101c691107f442ea34d630bfc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-20 15:07:02</sys_updated_on><timeline_page/><title>Loaner Admins</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1698865880</payload_hash>
+        <record_name>Loaner Admins</record_name>
+        <reverted_from/>
+        <source>1a0f8f9d018251107f442ea34d630be9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 15:07:02</sys_created_on>
+        <sys_id>24242c7101c691107f442ea34d630b45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1835b702f2a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 15:07:02</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6c242c716fc69110541d9f8112021944</update_guid>
+        <update_guid_history>6c242c716fc69110541d9f8112021944:-1698865880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Admins">76642cb101c691107f442ea34d630b01</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 15:08:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>527820f40e2a4238a4e0d432d1791c10</sys_id>
+        <sys_metadata>5be3e87101c691107f442ea34d630bfc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Admins</sys_name>
+        <sys_package display_value="Loaner" source="x_cdltd_loaner">96ba0f1d018251107f442ea34d630b66</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner">96ba0f1d018251107f442ea34d630b66</sys_scope>
+        <sys_scope_delete display_value="">2b9fa44c0d5a4762a8f97fe416355e79</sys_scope_delete>
+        <sys_update_name>sys_app_module_5be3e87101c691107f442ea34d630bfc</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5be3e87101c691107f442ea34d630bfc">24242c7101c691107f442ea34d630b45</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 15:08:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
